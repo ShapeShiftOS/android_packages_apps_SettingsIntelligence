@@ -16,4 +16,5 @@
 
 <resources>
     <color name="search_panel_background">@*android:color/material_grey_800</color>
+    <color name="oos_bg_of_card">@*android:color/material_grey_800</color>
 </resources>
