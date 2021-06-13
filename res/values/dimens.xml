@@ -37,4 +37,7 @@
 
     <!-- Dashboard tile image margin start / end -->
     <dimen name="dashboard_tile_image_margin">24dp</dimen>
+
+    <dimen name="search_bar_card_elevation">0dp</dimen>
+
 </resources>
